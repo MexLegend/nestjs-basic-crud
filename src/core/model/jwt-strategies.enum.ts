@@ -1,0 +1,4 @@
+export const enum JWT_STRATEGIES {
+  JWT_ACCESS = 'JWT_ACCESS',
+  JWT_REFRESH = 'JWT_REFRESH',
+}
